@@ -733,6 +733,11 @@ video {
   line-height: 2rem;
 }
 
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -758,6 +763,11 @@ video {
   color: rgb(28 35 43 / var(--tw-text-opacity));
 }
 
+.text-\[\#3c8067\] {
+  --tw-text-opacity: 1;
+  color: rgb(60 128 103 / var(--tw-text-opacity));
+}
+
 .line-through {
   text-decoration-line: line-through;
 }
@@ -780,6 +790,11 @@ video {
 .hover\:bg-\[\#3c8067\]:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(60 128 103 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-\[\#295746\]:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(41 87 70 / var(--tw-bg-opacity));
 }
 
 @media (min-width: 640px) {
@@ -892,6 +907,11 @@ video {
   .xl\:rounded-e-lg {
     border-start-end-radius: 0.5rem;
     border-end-end-radius: 0.5rem;
+  }
+
+  .xl\:px-7 {
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
   }
 }
 
