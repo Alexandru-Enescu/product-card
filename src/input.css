@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fraunces {
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+}
+
+.montserrat-500 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.montserrat-700 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
